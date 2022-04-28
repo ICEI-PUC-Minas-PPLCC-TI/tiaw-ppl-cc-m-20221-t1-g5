@@ -164,10 +164,14 @@
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`            |PARA ... `MOTIVO/VALOR`                            |
+|--------------------|-----------------------------------------------|---------------------------------------------------|
+|Adriano melo        | Utilizar a planilha e aprender sobre finanças | Utilizar                                          |
+|Administrador       | Alterar permissões                            | Permitir que possam administrar contas            |
+|Administrador       | Alterar permissões                            | Permitir que possam administrar contas            |
+|Administrador       | Alterar permissões                            | Permitir que possam administrar contas            |
+|Administrador       | Alterar permissões                            | Permitir que possam administrar contas            |
+|Administrador       | Alterar permissões                            | Permitir que possam administrar contas            |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -187,10 +191,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|------|---------------------------------------------|----|
+|RF-001| Criar o site                                | ALTA | 
+|RF-002| Permitir que o usuário se cadastre no site  | ALTA |
+|RF-003| Permitir que o usuário faça login no site   | ALTA |
+|RF-004| Permitir que o usuário se cadastre no site  | ALTA |
+|RF-005| Permitir que o usuário se cadastre no site  | ALTA |
+|RF-006| Permitir que o usuário se cadastre no site  | ALTA |
+|RF-007| Permitir que o usuário se cadastre no site  | ALTA |
+|RF-008| Permitir que o usuário se cadastre no site  | ALTA |
+|RF-009| Permitir que o usuário se cadastre no site  | ALTA |
+|RF-010| Permitir que o usuário se cadastre no site  | ALTA |
 
 ### Requisitos não Funcionais
 
