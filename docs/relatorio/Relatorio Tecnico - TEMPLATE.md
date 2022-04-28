@@ -9,7 +9,9 @@
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- Gabriel Ribeiro Souza Silva
+- Mateus Nunes Guerra Ribeiro
+- Pedro Caldera do Amaral Fonseca
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
