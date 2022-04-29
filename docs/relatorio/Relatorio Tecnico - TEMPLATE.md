@@ -52,7 +52,7 @@ Ciência da Computação - Praça da Liberdade
 
 ## Problema
 
-Por que a taxa de endividamento entre os jovens está tão alta no Brasil.
+Por que a taxa de endividamento entre os jovens está tão alta no Brasil ?
 
 ## Objetivos
 
@@ -76,14 +76,20 @@ Jovens adultos de 18 à 29 anos que estão iniciando no mercado de trabalho.
 
 ## Personas e Mapas de Empatia
 
-- ### Adriano
+### Personas
 ![Persona Adriano](imaages/../images/persona1.PNG)
 
-- ### Cleiton
 ![Persona Cleiton](imaages/../images/persona2.PNG)
 
-- ### Hudson
 ![Persona Adriano](imaages/../images/persona3.PNG)
+
+### Mapas de Empatia
+
+![Mapa Adriano](imaages/../images/persona1mapadeempatia.PNG)
+
+![Mapa Cleiton](imaages/../images/persona2mapadeempatia.PNG)
+
+![Mapa Hudson](imaages/../images/persona3mapadeempatia.PNG)
 
 
 ## Histórias de Usuários
@@ -149,21 +155,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+![Exemplo de UserFlow](images/wireflow.jpg)
 
 
 ## Wireframes
@@ -208,13 +200,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+|Membros  | Função          |
+|---------|-----------------|
+|Gabriel  | Desenvolvedor   |
+|Mateus   | Desenvolvedor   |
+|Pedro    | Desenvolvedor   |
 
 
 ## Ferramentas
@@ -253,38 +243,23 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A ferramenta de controle de versão adotada no projeto foi o
+[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+foi utilizado para hospedagem do repositório `upstream`.
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+O projeto segue a seguinte convenção para o nome de branchs:
+
+- `master`: versão estável já testada do software
+- `unstable`: versão já testada do software, porém instável
+- `testing`: versão em testes do software
+- `dev`: versão de desenvolvimento do software
+
+Quanto à gerência de issues, o projeto adota a seguinte convenção para
+etiquetas:
+
+- `bugfix`: uma funcionalidade encontra-se com problemas
+- `enhancement`: uma funcionalidade precisa ser melhorada
+- `feature`: uma nova funcionalidade precisa ser introduzida
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
