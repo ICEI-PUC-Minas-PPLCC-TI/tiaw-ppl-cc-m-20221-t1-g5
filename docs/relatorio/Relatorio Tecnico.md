@@ -68,7 +68,7 @@ Jovens adultos de 18 à 29 anos que estão iniciando no mercado de trabalho.
  
 # Especificações do Projeto
 
-Queremos criar um site funcional e simples que ajuda as pessoas a controlarem suas proprias finanças, nosso objetivo é educar o usuário sobre um dos assuntos mais importântes da vida adulta, o dinheiro. 
+Queremos criar um site funcional e simples que ajude as pessoas a controlarem suas proprias finanças, nosso objetivo é educar o usuário sobre um dos assuntos mais importântes da vida adulta, o dinheiro. 
 Mesmo que em nossa socidade "falar sobre dinheiro" seja um tabu, é muito importante o conhecimento sobre educação financeira e administração de renda.
 
 ## Personas e Mapas de Empatia
