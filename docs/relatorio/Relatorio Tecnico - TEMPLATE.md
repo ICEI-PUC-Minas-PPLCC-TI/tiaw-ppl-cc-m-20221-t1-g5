@@ -76,9 +76,14 @@ Jovens adultos de 18 à 29 anos que estão iniciando no mercado de trabalho.
 
 ## Personas e Mapas de Empatia
 
-### Adriano
-![Persona Adriano](imaages/../images/persona1.png)
+- ### Adriano
+![Persona Adriano](imaages/../images/persona1.PNG)
 
+- ### Cleiton
+![Persona Cleiton](imaages/../images/persona2.PNG)
+
+- ### Hudson
+![Persona Adriano](imaages/../images/persona3.PNG)
 
 ## Histórias de Usuários
 
