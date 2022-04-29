@@ -143,12 +143,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+O projeto foi feito com base nos pontos apresentados anteriormente (Requisitos, Histórias de Usuários e Personas). Primeiro foi feito o User Flow e logo após fizemos os Wireframes com base no User Flow. Utilizamos duas plataformas diferentes para realizarmos o projeto, o MarvelApp e o Wireflow.co.
 
 ## User Flow
 
@@ -183,7 +178,7 @@ A parte de WireFrame e UserFlow fizemos com as plataformas disponibilizadas dura
 
 Miro – Design Thinking.
 
-Marvel – Wire Frame
+MarvelApp – Wire Frame
 
 User Flow – Wireflow.co
 
