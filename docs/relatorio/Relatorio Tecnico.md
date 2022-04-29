@@ -152,22 +152,25 @@ O projeto foi feito com base nos pontos apresentados anteriormente (Requisitos, 
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+### Página Principal
+Primeira página que será aberta quando abrir o site. Apresentando algumas informações para o usuário e links para que ele possa navegar por ele.
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![WireframePrincipal](images/wireframePrincipal.png)
+
+### Página de Cadastro
+Página onde o usuário pode realizar um cadastro dentro do site.
+
+![WireframeCadastro](images/wireframeCadastro.png)
+
+### Página de Login
+Página onde o usuário irá entrar em sua conta no site se já possuir um cadastro.
+
+![WireframeLogin](images/wireframeLogin.png)
+
+### Página do Usuário
+Página que será aberta após o login do usuário no site, contendo informações customizadas e dicas.
+
+![WireframePerfil](images/wireframePerfil.png)
 
 
 # Metodologia
@@ -178,7 +181,7 @@ A parte de WireFrame e UserFlow fizemos com as plataformas disponibilizadas dura
 
 Miro – Design Thinking.
 
-MarvelApp – Wire Frame
+MarvelApp – Wireframe
 
 User Flow – Wireflow.co
 
@@ -199,7 +202,7 @@ User Flow – Wireflow.co
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVO5Fp1ak=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1-g5 | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp | https://marvelapp.com/prototype/177f3h89 | 
 
 
 ## Controle de Versão
