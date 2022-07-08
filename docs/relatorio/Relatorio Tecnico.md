@@ -245,11 +245,11 @@ Aqui será descritoas tecnologias utilizadas para resolver o problema, ou seja, 
 
 
 ##Tela login
-![Tela login](images/tela-loginF.png)
+![Tela login](images/tela-login-F.png)
 
 
 ##Tela cadastro
-![Tela cadatro](images/tela-cadatroF.png)
+![Tela cadatro](images/tela-cadastroF.png)
 
 ## Arquitetura da solução
 
