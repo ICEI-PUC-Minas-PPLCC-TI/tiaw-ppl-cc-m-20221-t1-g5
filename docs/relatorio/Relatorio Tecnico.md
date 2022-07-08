@@ -230,24 +230,11 @@ etiquetas:
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nesta seção são apresentados os detalhes técnicos da solução criada pelo grupo, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+Aqui será descritoas tecnologias utilizadas para resolver o problema, ou seja, implementar a sua solução.
 
 ## Arquitetura da solução
 
