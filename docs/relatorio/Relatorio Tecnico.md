@@ -236,67 +236,94 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pelo g
 
 Aqui será descritoas tecnologias utilizadas para resolver o problema, ou seja, implementar a sua solução.
 
+##Tela principal
+![Tela principal](images/tela-principalF.png)
+
+
+##Tela de Dicas
+![Tela dicas](images/tela-dicasF.png)
+
+
+##Tela login
+![Tela login](images/tela-loginF.png)
+
+
+##Tela cadastro
+![Tela cadatro](images/tela-cadatroF.png)
+
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+**Exemplo do diagrama de Arquitetura**:
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
 
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos testes realizados.
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Testes de Software:
+
+CT-01 - Visualizar a pagina principal
+CT-02 - Visualizar as dicas
+CT-03 - Cadastro do novo usuário e login
+CT-04 - Visualizar e utilizar o simulador
+CT-05 - Visualizar as noticias
 
 ## Plano de Testes
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos testes realizados.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Requisitos para realização do teste:
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+Site publicado na Internet
+Navegador da Internet - Chrome, Firefox ou Edge
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
-## Ferramentas de Testes (Opcional)
+|Caso de Teste  | CT-01 - Visualizar a pagina principal     |
+|---------|-----------------|
+|Requisitos Associados | RF-01 - Abrir o site.   |
+|                      | RF-02 - Exibição das noticias |
+|                      | RF-10 - Exibição dos botoes de login e os links do site |
+|Objetivo do teste | Verificar se a pagina está carregando corretamente. |
 
-......  COLOQUE AQUI O SEU TEXTO ......
+|Caso de Teste  | CT-02 - Visualizar as dicas     |
+|---------|-----------------|
+|Requisitos Associados | RF-01 - Abrir o site.   |
+|                      | RF-02 - Exibição das dicas |
+|Objetivo do teste | Verificar se as dicas estam carregando corretamente. |
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|Caso de Teste  | CT-03 - Cadastro do novo usuário e login    |
+|---------|-----------------|
+|Requisitos Associados | RF-01 - Abrir o site.   |
+|                      | RF-02 - Exibição do fomulario |
+|                      | RF-10 - Envio das informações |
+|Objetivo do teste | Verificar se o cadastro e login estão funcionando corretamente. |
+
+
+|Caso de Teste  | CT-04 - Visualizar e utilizar o simulador   |
+|---------|-----------------|
+|Requisitos Associados | RF-01 - Abrir o site.   |
+|                      | RF-02 - Exibição do simulador |
+|                      | RF-10 - Utilização do simulador |
+|Objetivo do teste | Verificar se o simulador funciona corretamente. |
+
+
+|Caso de Teste  | CT-05 - Visualizar as noticias    |
+|---------|-----------------|
+|Requisitos Associados | RF-01 - Abrir o site.   |
+|                      | RF-02 - Exibição das noticias |
+|Objetivo do teste | Verificar se as noticias está carregando corretamente. |
+
+
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Visto que as pessoas que acessaram o site e fizeram o cadastro, relataram ter tido facilidade em acessar os recursos e entender as ferramentas que foram trabalhadas no projeto. Porém, alguns relatos mostram também, os lados negativos da solução, como a impossibilidade de fazer comentários, o que é importante para a comunicação do usuário e dos criadores do site. Ademais, essas sugestões serão atendidas visando a melhoria da plataforma.
 
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+https://queroficarrico.com/blog/
+https://euqueroinvestir.com/
+https://mepoupe.com/
